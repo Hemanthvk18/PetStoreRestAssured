@@ -3,8 +3,7 @@ pipeline {
   
    stages {  
       stage('Checkout') {  
-        steps {  
-           git branch: 'master',    
+        steps {    
               url: 'https://github.com/Hemanthvk18/PetStoreRestAssured.git'  
         }  
       }      
