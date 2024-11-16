@@ -13,8 +13,17 @@ pipeline {
         stage('Build') {
             steps {
                 script {
-                    // Running the Maven build command
+                    // Running the Maven clean install command
                     bat "mvn clean install"
+                }
+            }
+        }
+
+        stage('Package') {
+            steps {
+                script {
+                    // Running the Maven clean package command
+                    bat "mvn clean package"
                 }
             }
         }
