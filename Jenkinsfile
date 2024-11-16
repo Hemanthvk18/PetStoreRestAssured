@@ -1,16 +1,20 @@
 pipeline {
     agent any
+
+    tools {
+        maven 'Maven 3'  // This should match the Maven installation you configured in Jenkins
+    }
+
+    environment {
+        JAVA_HOME = 'C:/Program Files/Java/jdk-21'
+    }
+
     stages {
-        stage('Run Command') {
+        stage('Build') {
             steps {
                 script {
-                    if (isUnix()) {
-                        // Unix command
-                        sh 'nohup your-command &'
-                    } else {
-                        // Windows equivalent
-                        bat 'start your-command'
-                    }
+                    // Running the Maven build command
+                    bat "mvn clean install"
                 }
             }
         }
