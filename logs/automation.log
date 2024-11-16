@@ -1,0 +1,48 @@
+13:43:27.877 [main] INFO  api.test.UserTest - ********** Creating user  ***************
+13:43:32.161 [main] INFO  api.test.UserTest - **********User is creatged  ***************
+13:43:32.170 [main] INFO  api.test.UserTest - ********** Reading User Info ***************
+13:43:33.759 [main] INFO  api.test.UserTest - **********User info  is displayed ***************
+13:43:33.765 [main] INFO  api.test.UserTest - ********** Updating User ***************
+13:43:35.295 [main] INFO  api.test.UserTest - ********** User updated ***************
+13:43:36.935 [main] INFO  api.test.UserTest - **********   Deleting User  ***************
+13:43:38.464 [main] INFO  api.test.UserTest - ********** User deleted ***************
+14:32:06.811 [main] INFO  api.test.UserTest - ********** Creating user  ***************
+14:32:10.631 [main] INFO  api.test.UserTest - **********User is creatged  ***************
+14:32:10.656 [main] INFO  api.test.UserTest - ********** Reading User Info ***************
+14:32:12.235 [main] INFO  api.test.UserTest - **********User info  is displayed ***************
+14:32:12.240 [main] INFO  api.test.UserTest - ********** Updating User ***************
+14:32:14.280 [main] INFO  api.test.UserTest - ********** User updated ***************
+14:32:15.923 [main] INFO  api.test.UserTest - **********   Deleting User  ***************
+14:32:17.555 [main] INFO  api.test.UserTest - ********** User deleted ***************
+12:35:17.706 [main] INFO  api.test.UserTestUsingProFiles - ********** Creating user  ***************
+12:35:20.972 [main] INFO  api.test.UserTestUsingProFiles - **********User is creatged  ***************
+12:35:20.978 [main] INFO  api.test.UserTestUsingProFiles - ********** Reading User Info ***************
+12:35:22.299 [main] INFO  api.test.UserTestUsingProFiles - **********User info  is displayed ***************
+12:35:22.302 [main] INFO  api.test.UserTestUsingProFiles - ********** Updating User ***************
+12:35:23.524 [main] INFO  api.test.UserTestUsingProFiles - ********** User updated ***************
+12:35:24.770 [main] INFO  api.test.UserTestUsingProFiles - **********   Deleting User  ***************
+12:35:26.018 [main] INFO  api.test.UserTestUsingProFiles - ********** User deleted ***************
+12:37:38.722 [main] INFO  api.test.UserTestUsingProFiles - ********** Creating user  ***************
+12:37:41.479 [main] INFO  api.test.UserTestUsingProFiles - **********User is creatged  ***************
+12:37:41.494 [main] INFO  api.test.UserTestUsingProFiles - ********** Reading User Info ***************
+12:37:42.743 [main] INFO  api.test.UserTestUsingProFiles - **********User info  is displayed ***************
+12:37:42.745 [main] INFO  api.test.UserTestUsingProFiles - ********** Updating User ***************
+12:37:43.982 [main] INFO  api.test.UserTestUsingProFiles - ********** User updated ***************
+12:37:45.284 [main] INFO  api.test.UserTestUsingProFiles - **********   Deleting User  ***************
+12:37:46.673 [main] INFO  api.test.UserTestUsingProFiles - ********** User deleted ***************
+12:55:36.058 [main] INFO  api.test.UserTestUsingProFiles - ********** Creating user  ***************
+12:55:39.085 [main] INFO  api.test.UserTestUsingProFiles - **********User is creatged  ***************
+12:55:39.095 [main] INFO  api.test.UserTestUsingProFiles - ********** Reading User Info ***************
+12:55:40.414 [main] INFO  api.test.UserTestUsingProFiles - **********User info  is displayed ***************
+12:55:40.415 [main] INFO  api.test.UserTestUsingProFiles - ********** Updating User ***************
+12:55:41.621 [main] INFO  api.test.UserTestUsingProFiles - ********** User updated ***************
+12:55:42.963 [main] INFO  api.test.UserTestUsingProFiles - **********   Deleting User  ***************
+12:55:44.372 [main] INFO  api.test.UserTestUsingProFiles - ********** User deleted ***************
+13:12:07.082 [main] INFO  api.test.UserTestUsingProFiles - ********** Creating user  ***************
+13:12:10.024 [main] INFO  api.test.UserTestUsingProFiles - **********User is creatged  ***************
+13:12:10.037 [main] INFO  api.test.UserTestUsingProFiles - ********** Reading User Info ***************
+13:12:11.257 [main] INFO  api.test.UserTestUsingProFiles - **********User info  is displayed ***************
+13:12:11.259 [main] INFO  api.test.UserTestUsingProFiles - ********** Updating User ***************
+13:12:12.522 [main] INFO  api.test.UserTestUsingProFiles - ********** User updated ***************
+13:12:13.736 [main] INFO  api.test.UserTestUsingProFiles - **********   Deleting User  ***************
+13:12:15.210 [main] INFO  api.test.UserTestUsingProFiles - ********** User deleted ***************
